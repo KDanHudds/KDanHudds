@@ -5,6 +5,8 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=KDanHudds&repo=Motion-Hub&show_icons=true&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=KDanHudds&repo=Motion-Universal-Aimbot&show_icons=true&theme=dark"/>
 
+<h3>Motion hub most likely does not work anymore due to the roblox byfron implementation and the script itself may not work due to updates within the supported games</h3>
+
 <br></br>
 <h2>Languages</h2>
 <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg"><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
